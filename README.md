@@ -34,3 +34,8 @@ Synthetic traffic was labeled automatically, and real traffic was labeled by hum
 * Time series forecasting:
 
   It is a way to predict future values based on previously observed values, using a mathematical model (statistics). Read more about this over here, and check out my **AI-Zero-2-Hero**  repository for lab examples of what this is. 
+  
+## See also
+
+For other interesting datasets, see this: http://odds.cs.stonybrook.edu/
+
